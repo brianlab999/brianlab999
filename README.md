@@ -115,7 +115,7 @@ I'm a junior majoring in **Data Science** at Soochow University, ranking **1st i
 
 ###   Leadership
 
-- **Vice President**, Life Character Development Club — *(Sept. 2024 – Present)*
+- **Vice President**, Life Character Development Club — *Sept. 2024 – Present*
   Organize events and coordinate activities for **50+ members**.
 
 ---
