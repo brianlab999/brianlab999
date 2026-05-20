@@ -17,7 +17,28 @@ I'm a junior majoring in **Data Science** at Soochow University, ranking **1st i
 - **Soochow University** — B.S. in Data Science, Business Management Credit Program  *(Sept. 2023 – Jun. 2027 expected)*
   - GPA **4.0 / 4.0** · Class Rank **1 / 48**
   - **Academic Excellence Award** every semester since 2023 (×4); **Dean Chang Shan-cheng Honorary Award** ×2
-  - A+ coursework: FinTech & Intelligent Trading, Machine Learning, Big Data Analytics, Data Structures & Algorithms, FinTech Innovation & Applications
+ ###   Outstanding Academic Performance (A+)
+
+| Category | Course | Grade |
+|---|---|---|
+| **Mathematics & Statistics** | Calculus | **100** |
+|  | Linear Algebra | 99 |
+|  | Statistics | 99 |
+|  | Probability | 98 |
+| **Programming & Data Science** | Data Structures & Algorithms | 98 |
+|  | Big Data Analytics | 98 |
+|  | Data Analysis Software | 99 |
+|  | Web Programming | 96 |
+|  | Introduction to Big Data | 97 |
+| **Finance & FinTech** | FinTech Innovation & Applications | 99 |
+|  | Intelligent Trading | 99 |
+|  | Financial Planning | 99 |
+|  | Monetary & Banking | 99 |
+|  | Accounting | 99 |
+|  | Economics | 97 |
+|  | Introduction to Big Data and FinTech Practices | 99 |
+| **Other Courses** | Interactive Technology | 99 |
+|  | English | 99 |
 - **San Francisco State University, USA** — Short-term Exchange Program  *(Jan. 2026 – Feb. 2026)*
   - Visited Silicon Valley tech companies; explored AI industry trends and applied data analytics with local faculty and students.
 
@@ -30,7 +51,7 @@ I'm a junior majoring in **Data Science** at Soochow University, ranking **1st i
 - Built ML-based quantitative trading strategies on **Taiwan stock market data from Jan. 1999 – Feb. 2025**.
 - Nonlinear models outperformed linear regression on prediction and backtest returns **by ~50%**.
 - Engineered a multi-level factor set: short-/long-term momentum, momentum change, max single-period return, return volatility.
-- Tree ensembles (**XGBoost, LightGBM, Random Forest, GBRT**) delivered the best accuracy and cumulative returns vs. **TWII**.
+- Tree ensembles (**XGBoost, LightGBM, Random Forest, GBRT, NN**) delivered the best accuracy and cumulative returns vs. **TWII**.
 
 **  HFSLS-PSO-BIGRU Stock Prediction Model** — *Sept. 2025 – Jan. 2026*
 - Applied HFSLS-PSO-BIGRU to Taiwan equities, achieving **R² = 0.937** on TWII.
