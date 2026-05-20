@@ -46,29 +46,29 @@ I'm a junior majoring in **Data Science** at Soochow University, ranking **1st i
 
 ###   Research & Projects
 
-**  National Science and Technology Council Undergraduate Research Project** — *Jul. 2025 – Feb. 2026*
+**National Science and Technology Council Undergraduate Research Project** — *Jul. 2025 – Feb. 2026*
 *An Empirical Study on Multi-Level Momentum and Liquidity Volatility Using Machine Learning*
 - Built ML-based quantitative trading strategies on **Taiwan stock market data from Jan. 1999 – Feb. 2025**.
 - Nonlinear models outperformed linear regression on prediction and backtest returns **by ~50%**.
 - Engineered a multi-level factor set: short-/long-term momentum, momentum change, max single-period return, return volatility.
 - XGBoost, LightGBM, Random Forest, GBRT, NN delivered the best accuracy and cumulative returns vs. **TWII**.
 
-**  HFSLS-PSO-BIGRU Stock Prediction Model** — *Sept. 2025 – Jan. 2026*
+**HFSLS-PSO-BIGRU Stock Prediction Model** — *Sept. 2025 – Jan. 2026*
 - Applied HFSLS-PSO-BIGRU to Taiwan equities, achieving **R² = 0.937** on TWII.
 - **HFSLS feature selection contributed 97% of the performance gain.**
 - Validated cross-industry applicability — accurate on defensive and tech stocks; captured volatility in cyclical names.
 
-**  Freeway Traffic Data Pipeline** — *Jun. 2024*
+**Freeway Traffic Data Pipeline** — *Jun. 2024*
 - Designed an **Apache Airflow** ETL pipeline for freeway Vehicle Detector (VD) XML data; stored structured output in **Elasticsearch** for efficient querying.
 
-**  Web Application with SQLite Back-End** — *Feb. 2025*
+**Web Application with SQLite Back-End** — *Feb. 2025*
 - Full-stack web app (HTML/CSS/JS + SQLite) with CRUD operations, **100% data integrity**, and **<200 ms** response time.
 - [Demo Video](https://youtu.be/-8x2bmUEOtM)
 
-**  Front-End Music Education Website** — *Nov. 2024*
+**Front-End Music Education Website** — *Nov. 2024*
 - Responsive front-end project simulating a music education platform.
 
-**  Garmin Sleep Data Analysis** — *Oct. 2025*
+**Garmin Sleep Data Analysis** — *Oct. 2025*
 - Analyzed wearable sleep data (duration, quality, trends) with pandas / NumPy / Matplotlib.
 
 ---
