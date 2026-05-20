@@ -10,8 +10,6 @@
 
 I'm a junior majoring in **Data Science** at Soochow University, ranking **1st in my class with a GPA of 4.0/4.0**. My work sits at the intersection of **statistical learning, machine learning, and financial data science** — turning large, noisy market data into structured insight and actionable strategy.
 
-I'm passionate about **digital finance**. Alongside coursework I've earned **10+ professional certifications** (life/property/investment-linked insurance, fintech, trust, financial planning, AML, etc.) to connect data techniques with real financial practice. My goal: use precise customer-journey and market-data analysis to surface protection needs and drive grounded, executable marketing strategies.
-
 ---
 
 ###   Education
