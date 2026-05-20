@@ -77,9 +77,9 @@ I'm a junior majoring in **Data Science** at Soochow University, ranking **1st i
 - Financial Technology (FinTech) Knowledge
 
 **Data & Analytics**
-- Python Programming Certification — *Silicon Stone Education* (Jan. 2024)
-- AI & Machine Learning Program — *National Taiwan University* (Aug. 2024)
-- Google Analytics (GA4) Certification (Dec. 2024)
+- Python Programming Certification — *Silicon Stone Education* 
+- AI & Machine Learning Program — *National Taiwan University* 
+- Google Analytics (GA4) Certification 
 
 **Languages** &nbsp; TOEIC **755** · GEPT Intermediate
 
@@ -94,7 +94,7 @@ I'm a junior majoring in **Data Science** at Soochow University, ranking **1st i
 
 ###   Leadership
 
-- **Vice President**, Life Character Development Club — *Sept. 2024 – Present*
+- **Vice President**, Life Character Development Club — *(Sept. 2024 – Present)*
   Organize events and coordinate activities for **50+ members**.
 
 ---
