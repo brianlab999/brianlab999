@@ -47,8 +47,7 @@ I'm a junior majoring in **Data Science** at Soochow University, ranking **1st i
 ---
 
 ###   Research & Projects
-
-**National Science and Technology Council Undergraduate Research Project** — *Jul. 2025 – Feb. 2026*/n
+**National Science and Technology Council Undergraduate Research Project** — *Jul. 2025 – Feb. 2026*  
 *An Empirical Study on Multi-Level Momentum and Liquidity Volatility Using Machine Learning*
 - Built ML-based quantitative trading strategies on **Taiwan stock market data from Jan. 1999 – Feb. 2025**.
 - Nonlinear models outperformed linear regression on prediction and backtest returns **by ~50%**.
