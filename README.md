@@ -16,24 +16,25 @@ I'm a junior majoring in **Data Science** at Soochow University, ranking **1st i
 
 - **Soochow University** — B.S. in Data Science, Business Management Credit Program  *(Sept. 2023 – Jun. 2027 expected)*
   - GPA **4.0 / 4.0** · Class Rank **1 / 48**
-  - **Academic Excellence Award** every semester since 2023 (×4); **Dean Chang Shan-cheng Honorary Award** ×2
+  - **Academic Excellence Award** every semester since 2023 (×4);
+  - **Dean Chang Shan-cheng Honorary Award** every semester since 2023 (×2)
  ###   Outstanding Academic Performance (A+)
 
 | Category | Course | Grade |
 |---|---|---|
-| **Mathematics & Statistics** | Calculus | **100** |
+| **Mathematics and Statistics** | Calculus | **100** |
 |  | Linear Algebra | 99 |
 |  | Statistics | 99 |
 |  | Probability | 98 |
-| **Programming & Data Science** | Data Structures & Algorithms | 98 |
+| **Programming and Data Science** | Data Structures & Algorithms | 98 |
 |  | Big Data Analytics | 98 |
 |  | Data Analysis Software | 99 |
 |  | Web Programming | 96 |
 |  | Introduction to Big Data | 97 |
-| **Finance & FinTech** | FinTech Innovation & Applications | 99 |
+| **Finance and FinTech** | FinTech Innovation & Applications | 99 |
 |  | Intelligent Trading | 99 |
 |  | Financial Planning | 99 |
-|  | Monetary & Banking | 99 |
+|  | Monetary and Banking | 99 |
 |  | Accounting | 99 |
 |  | Economics | 97 |
 |  | Introduction to Big Data and FinTech Practices | 99 |
