@@ -85,7 +85,7 @@
 
 **Data and Analytics**
 - Python Programming Certification — *Silicon Stone Education* 
-- AI & Machine Learning Program — *National Taiwan University* 
+- AI and Machine Learning Program — *National Taiwan University* 
 - Google Analytics (GA4) Certification 
 
 **Languages** &nbsp; TOEIC **755** · GEPT Intermediate
