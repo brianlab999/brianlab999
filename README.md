@@ -1,9 +1,3 @@
-###   About Me
-
-I'm a junior majoring in **Data Science** at Soochow University, ranking **1st in my class with a GPA of 4.0/4.0**. My work sits at the intersection of **machine learning, and financial data science** — turning large, noisy market data into structured insight and actionable strategy.
-
----
-
 ###   Education
 - **Soochow University** — B.S. in Data Science, Business Management Credit Program  
   *(Sept. 2023 – Jun. 2027 expected)*
