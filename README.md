@@ -28,15 +28,15 @@ Repository: [Web-Scraping-with-Selenium](https://github.com/brianlab999/Web-Scra
 
 **Web Application with SQLite Back-End** — *Dec. 2024 – Feb. 2025*  
 Repository: [Web-Application-with-SQLite-Back-End](https://github.com/brianlab999/Web-Application-with-SQLite-Back-End) · [Demo Video](https://youtu.be/-8x2bmUEOtM)
-- Full-stack web app (**Node.js + Express + SQLite**) wired to the [Mövenpick Café front-end](https://github.com/brianlab999/Movenpick).
+- Full-stack web app (**Node.js + Express + SQLite**) wired to the [Mövenpick Café front-end](https://github.com/brianlab999/Movenpick-Cafe-front-end).
 - RESTful API with parameterized SQL queries; CRUD operations with **100% data integrity** and **<200 ms** response time.
 
 **Q-bi Music Education Front-End** — *Oct. 2024 – Nov. 2024*  
-Repository: [Music](https://github.com/brianlab999/Music)
+Repository: [QB-Music-front-end](https://github.com/brianlab999/QB-Music-front-end)
 - Multi-page front-end website (HTML/CSS/JS + Bootstrap CDN) for a music education brand: news, brand story, instruments, members area, classroom map, charity, and franchise pages.
 
 **Mövenpick Café Front-End** — *Aug. 2024 – Sept. 2024*  
-Repository: [Movenpick](https://github.com/brianlab999/Movenpick)
+Repository: [Movenpick-Cafe-front-end](https://github.com/brianlab999/Movenpick-Cafe-front-end)
 - Multi-page restaurant website (HTML/CSS/JS) covering menus, set meals, reservations, and brand introduction.
 - Serves as the front-end layer for the SQLite full-stack reservation system above.
 
