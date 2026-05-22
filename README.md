@@ -1,9 +1,3 @@
-###   About Me
-
-I'm a Data Science student at Soochow University focused on **machine learning, financial forecasting, and full-stack development**. I build end-to-end projects spanning quantitative research, web scraping, full-stack web apps, and conversational AI.
-
----
-
 ###   Research and Projects
 
 **National Science and Technology Council Undergraduate Research Project** — *Jul. 2025 – Feb. 2026*  
