@@ -21,24 +21,26 @@ I'm a junior majoring in **Data Science** at Soochow University, ranking **1st i
  ###   Outstanding Academic Performance (A+)
 
 | Category | Course | Grade |
+|----------|--------|-------|
 | **Mathematics & Statistics** | Calculus | **100** |
-| | Linear Algebra | 99 |
-| | Statistics | 99 |
-| | Probability | 98 |
+|  | Linear Algebra | 99 |
+|  | Statistics | 99 |
+|  | Probability | 98 |
 | **Programming & Data Science** | Data Structures & Algorithms | 98 |
-| | Big Data Analytics | 98 |
-| | Data Analysis Software | 99 |
-| | Web Programming | 96 |
-| | Introduction to Big Data | 97 |
+|  | Big Data Analytics | 98 |
+|  | Data Analysis Software | 99 |
+|  | Web Programming | 96 |
+|  | Introduction to Big Data | 97 |
 | **Finance & FinTech** | FinTech Innovation & Applications | 99 |
-| | Intelligent Trading | 99 |
-| | Financial Planning | 99 |
-| | Monetary and Banking | 99 |
-| | Accounting | 99 |
-| | Economics | 97 |
-| | Introduction to Big Data & FinTech Practices | 99 |
+|  | Intelligent Trading | 99 |
+|  | Financial Planning | 99 |
+|  | Monetary and Banking | 99 |
+|  | Accounting | 99 |
+|  | Economics | 97 |
+|  | Introduction to Big Data & FinTech Practices | 99 |
 | **Other Courses** | Interactive Technology | 99 |
-| | English | 99 |
+|  | English | 99 |
+
 - **San Francisco State University, USA** — Short-term Exchange Program  *(Jan. 2026 – Feb. 2026)*
   - Visited Silicon Valley tech companies; explored AI industry trends and applied data analytics with local faculty and students.
 
